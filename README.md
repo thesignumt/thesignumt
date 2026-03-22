@@ -16,5 +16,5 @@
 
 ## 🛠️ Skills
 - Languages: C, Python
-- Tools: Git, (Neovim)[https://github.com/neovim/neovim], (Wezterm)[https://wezterm.org/index.html], (GlazeWM)[https://github.com/glzr-io/glazewm] + (Zebar)[https://github.com/glzr-io/zebar]
+- Tools: Git, [Neovim](https://github.com/neovim/neovim), [Wezterm](https://wezterm.org/index.html), [GlazeWM](https://github.com/glzr-io/glazewm) + [Zebar](https://github.com/glzr-io/zebar)
 - System: Windows 11
